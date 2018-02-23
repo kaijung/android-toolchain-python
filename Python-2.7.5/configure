@@ -15060,7 +15060,7 @@ fi
 
 if test $ac_sys_system = Darwin
 then
-	LIBS="$LIBS -framework CoreFoundation"
+	LIBS="$LIBS"
 fi
 
 
